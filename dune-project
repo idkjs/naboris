@@ -1,2 +1,5 @@
-(lang dune 1.6)
+(lang dune 2.9)
+
 (name naboris)
+
+(formatting disabled)
